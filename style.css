@@ -19,24 +19,29 @@ body{
 nav{
     background-color: #354758;
     margin-top: 0px;
+    padding: 1px;
 }
 #shop{
     background-color: #f56600;
     text-align: center;
     color: white;
+   
 }
 .description1 a, .description2 a, .description3 a{
     color: #017185;
     font-weight: bold;
 }
+
+
 #bottom{
     background-color: #354758;
+    padding: 1px;
 
 }
 #bottom a{
     color: white;
     text-decoration: underline;
-   text-align: center;
+    text-align: center;
 }
 a{
     text-decoration: none;
@@ -60,6 +65,12 @@ li a{
     height: 10%;
   
 }
+.logo1{
+    padding: 10px;
+}
+
+
+
 #jumbotron{
     background-image: url("bg-image.png");
     text-align: center;
