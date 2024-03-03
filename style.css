@@ -1,0 +1,87 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#logo, nav, #bottom {
+    width: 100%;
+    margin: 0 auto;
+}
+#container{
+    width: 80%;
+    background-color: #eaeded;
+}
+
+#logo{
+    background-color: #222f3e;
+}
+
+nav{
+    background-color: #354758;
+    margin-top: 0px;
+}
+#shop{
+    background-color: #f56600;
+    text-align: center;
+    color: white;
+}
+.description1 a, .description2 a, .description3 a{
+    color: #017185;
+    font-weight: bold;
+}
+#bottom{
+    background-color: #354758;
+    color: white;
+}
+#bottom a{
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+li{
+   
+    display: inline;
+    padding: 0.5em;
+}
+li a{
+    color: white;
+}
+
+.logo1 img{
+    width: 5%;
+    height: 5%;
+}
+
+.logo2 img{
+    width: 10%;
+    height: 10%;
+  
+}
+#jumbotron{
+    background-image: url("bg-image.png");
+    text-align: center;
+    color: white;
+
+}
+
+
+.column24{
+    width: 24%;
+    display: inline-block;
+    height: 400px;
+    
+}
+
+.column24 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5%;
+}
+
+.logo2{
+    text-align: center;
+}
